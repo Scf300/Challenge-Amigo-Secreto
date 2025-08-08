@@ -11,7 +11,6 @@ function agregarAmigo() {
   
   if (nombreAmigo !== "") {
     listaAmigos.push(nombreAmigo);    // Añadir el nombre al array
-    console.log(listaAmigos);          // Mostrar lista en consola (puedes eliminarlo en producción)
     mostrarListaAmigos();              // Actualizar la lista visual en la página
     limpiarCaja();                     // Limpiar campo de entrada
   } else {
