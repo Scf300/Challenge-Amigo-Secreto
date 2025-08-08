@@ -1,6 +1,6 @@
 # 🎉 Amigo Secreto
 
-![Portada Amigo Secreto] (https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/049cb6d7-3893-45f2-b31f-df8fa3f22f81.png)
+![Portada Amigo Secreto](https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/049cb6d7-3893-45f2-b31f-df8fa3f22f81.png)
 
 ---
 
