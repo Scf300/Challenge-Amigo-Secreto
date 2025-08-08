@@ -1,6 +1,6 @@
 # 🎉 Amigo Secreto
 
-![Portada Amigo Secreto](https://images.unsplash.com/photo-1515377905703-c4788e51af15?auto=format&fit=crop&w=800&q=60)
+![Portada Amigo Secreto] (https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/049cb6d7-3893-45f2-b31f-df8fa3f22f81.png)
 
 ---
 
